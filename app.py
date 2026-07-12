@@ -368,13 +368,15 @@ def render_footer() -> None:
     
     with col2:
         st.markdown(
-            f"<div style='text-align: center; color: var(--text-muted); font-size: 0.875rem;'>"
-            f"© 2026 KickStack | {APP_NAME} v{APP_VERSION}<br>"
-            f"Built with 🐍 Python, 👑 Streamlit & ⚡ Groq"
-            f"</div>",
+           f"""
+           <div style='text-align: center; color: var(--text-muted); font-size: 0.875rem; line-height: 1.6;'>
+              © 2026 KickStack | {APP_NAME} v{APP_VERSION}<br>
+              Designed & Developed by <strong>Vyshnavi</strong><br>
+              Built with 🐍 Python • 🌐 Streamlit • ⚡ Groq
+            </div>
+            """,
             unsafe_allow_html=True
-        )
-
+    )
 
 def main() -> None:
     """Main application bootstrap."""
