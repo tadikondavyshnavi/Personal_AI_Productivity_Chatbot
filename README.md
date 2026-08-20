@@ -241,14 +241,14 @@ During the development of this project, several practical software engineering c
 
 ## Developer
 
-**Pravallika Surya**
+**Tadikonda Vyshnavi**
 
 Bachelor of Technology (Information Technology)
 
 Interested in Artificial Intelligence, Python Development, Software Engineering, and Intelligent Automation.
 
 GitHub:
-https://github.com/Pravallikasurya
+https://github.com/tadikondavyshnavi
 
 ---
 
